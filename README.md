@@ -35,6 +35,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## Preview
 
+<img width="1440" alt="1-notebook" src="https://github.com/zahid-shabbir/DataScienceEcosystem/assets/82718584/99846066-7794-44d3-b064-f5f0c7685a9a">
 
 ## Authors
 - Zahid Shabbir
