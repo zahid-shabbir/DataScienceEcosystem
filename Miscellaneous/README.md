@@ -10,6 +10,7 @@ This Jupyter Notebook summarizes the tools and ecosystem in the field of data sc
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Contributing](#contributing)
+  - [Preview](#preview)
   - [Authors](#authors)
   - [License](#license)
 
@@ -31,6 +32,9 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Make your changes and commit them: `git commit -m 'Add your feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request.
+
+## Preview
+
 
 ## Authors
 - Zahid Shabbir
